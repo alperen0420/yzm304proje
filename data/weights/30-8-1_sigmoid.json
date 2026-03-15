@@ -1,0 +1,10 @@
+{
+  "seed": 42,
+  "architecture": [
+    30,
+    8,
+    1
+  ],
+  "hidden_activation": "sigmoid",
+  "weight_file": "30-8-1_sigmoid.npz"
+}
