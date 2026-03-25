@@ -107,3 +107,5 @@ Calisma iki temel sonucu ortaya koydu. Birincisi, laboratuvar modeli icin en kri
 L2 reglarizasyon bu kurulumda accuracy tarafinda belirgin bir artis getirmedi, ancak agirlik normunu `10.1610` seviyesinden `10.1606` seviyesine indirerek parametre buyuklugunu kontrol etti. Veri miktari deneyleri, `%50` ve `%75` train alti-kumelerinin validation tarafinda rekabetci kalabildigini; fakat test genellemesinde tam veriyle secilen genis modelin daha istikrarli oldugunu gosterdi.
 
 Repo tek kanonik akisi korur; eski durumlarla uyumluluk katmani eklemez. Temiz checkout sonrasinda `.venv` kurulumu, testlerin calistirilmasi ve `python -m src.run_all` komutuyla tum ciktilar yeniden uretilebilir.
+
+# Alperen Aydın 22290435
